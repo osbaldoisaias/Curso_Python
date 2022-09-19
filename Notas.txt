@@ -1,0 +1,24 @@
+-------------------------PYTHON OPENBOOTCAMP--------------------------
+
+Características
+  Lenguaje interpretado
+  Lenguaje de alto nivel
+  Orientado a objetos
+  Programación estructurada
+  Tipado dinámico: Las variables pueden cambiar su tipo
+  Tipado fuerte: Sólo se hacen operaciones con datos del mismo tipo
+
+Tipos de datos primitivos:
+  Tipos numéricos
+    - Entero (int)
+    - Real (float)
+    - Complejo (complex)
+  Tipo cadena
+    - String (str)
+  Tipo lista
+    - Listas (list)
+    - Tupla (tuple)
+  Tipo diccioanrio
+    - Diccionario (dict)
+
+
